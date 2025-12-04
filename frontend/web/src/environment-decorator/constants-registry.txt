@@ -1,0 +1,2 @@
+// Auto-generated file: D:\MyCode\zama\demo\frontend\web\src\environment-decorator\constants-registry.txt
+// Generated at: 2025-10-07T10:04:34.503Z
